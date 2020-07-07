@@ -1,0 +1,8 @@
+com\deloitte\vendingmachine\service\VendingMachineImpl.class
+com\deloitte\vendingmachine\service\VendingMachineFactory.class
+com\deloitte\vendingmachine\exceptions\DispenseException.class
+com\deloitte\vendingmachine\entity\Currency.class
+com\deloitte\vendingmachine\entity\Dispenser.class
+com\deloitte\vendingmachine\entity\Product.class
+com\deloitte\vendingmachine\entity\Stock.class
+com\deloitte\vendingmachine\service\VendingMachine.class
